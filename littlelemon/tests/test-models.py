@@ -6,7 +6,6 @@ class MenuModelTest(TestCase):
       
         menu = Menu.objects.create(name='Breakfast', price=20, description='A selection of breakfast items')
 
-        # check that the string representation of the object is as expected
         self.assertEqual(str(menu), 'Breakfast : A selection of breakfast items')
 
         # check that the name, price, and description fields are set correctly
