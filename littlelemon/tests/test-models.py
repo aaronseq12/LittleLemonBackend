@@ -3,7 +3,7 @@ from restaurant.models import Menu
 
 class MenuModelTest(TestCase):
     def test_create_menu(self):
-        # create a new menu object
+      
         menu = Menu.objects.create(name='Breakfast', price=20, description='A selection of breakfast items')
 
         # check that the string representation of the object is as expected
