@@ -8,3 +8,5 @@ Backend Programming Language: The backend logic of the website can be implemente
 Web Framework: A web framework provides a structured environment for developing web applications. Popular frameworks include Django (Python), Express.js (Node.js)
 
 Caching: To improve performance and reduce the load on the server, caching mechanisms can be implemented. Tools like Redis or Memcached can be used for caching frequently accessed metadata.
+
+Deployment and Hosting: The meta backend can be deployed on a hosting platform or infrastructure such as AWS (Amazon Web Services), Google Cloud Platform, Microsoft Azure, or a self-managed server.
