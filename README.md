@@ -5,4 +5,4 @@ In terms of technology, the specific stack used for the meta backend development
 
 Backend Programming Language: The backend logic of the website can be implemented using a programming language such as Python, JavaScript (Node.js).
 
-Web Framework: A web framework provides a structured environment for developing web applications. Examples of popular frameworks include Django (Python), Express.js (Node.js),
+Web Framework: A web framework provides a structured environment for developing web applications. Examples of popular frameworks include Django (Python), Express.js (Node.js)
