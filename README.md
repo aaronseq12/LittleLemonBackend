@@ -3,9 +3,9 @@ The Little Lemon website meta backend development involves creating the underlyi
 
 In terms of technology, the specific stack used for the meta backend development of the Little Lemon website can vary depending on the requirements and preferences of the development team. However, here are some commonly used technologies and components that could be involved:
 
-Backend Programming Language: The backend logic of the website can be implemented using a programming language such as Python, JavaScript Node.js.
+Backend Programming Language: The backend logic of the website can be implemented using a programming language such as Python, JavaScript, or Node.js.
 
-Web Framework: A web framework provides a structured environment for developing web applications. Popular frameworks include Django (Python),  (Node.js)
+Web Framework: A web framework provides a structured environment for developing web applications. Popular frameworks include Django (Python),  Node.js.
 
 Caching: To improve performance and reduce the load on the server, caching mechanisms can be implemented. Tools like Redis or Memcached can be used for caching frequently accessed metadata.
 
