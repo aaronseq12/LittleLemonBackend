@@ -10,4 +10,4 @@ class MenuModelTest(TestCase):
         self.assertEqual(menu.name, 'Breakfast')
         self.assertEqual(menu.price, 20)
         self.assertEqual(menu.description, 'A selection of breakfast items')
-        self.assertEqual(menu.calculate_total_cost(), 30)
+        self.assertEqual(menu.calculate_total_cost(), 30
