@@ -1,5 +1,5 @@
 # Little Lemon Backend
-The Little Lemon website meta backend development involves creating the underlying infrastructure and functionality that supports the website's meta-features. This typically includes managing metadata, such as title tags, meta descriptions, and keywords, and ensuring their proper implementation for search engine optimization (SEO) purposes.....
+The Little Lemon website meta backend development involves creating the underlying infrastructure and functionality that supports the website's meta-features. This typically includes managing metadata, such as title tags, meta descriptions, and keywords, and ensuring their proper implementation for search engine optimization (SEO) purposes.
 
 In terms of technology, the specific stack used for the meta backend development of the Little Lemon website can vary depending on the requirements and preferences of the development team. However, here are some commonly used technologies and components that could be involved:
 
